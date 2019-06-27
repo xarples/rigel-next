@@ -1,0 +1,26 @@
+{
+  "name": "@xarples/rigel",
+  "version": "0.0.1",
+  "description": "Simple user service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/xarples/rigel.git"
+  },
+  "keywords": [
+    "users",
+    "service"
+  ],
+  "author": "xarples",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xarples/rigel/issues"
+  },
+  "homepage": "https://github.com/xarples/rigel#readme",
+  "devDependencies": {
+    "lerna": "^3.15.0"
+  }
+}
